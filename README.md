@@ -1,11 +1,10 @@
-## Hi there 👋
+## Hello,
+![hhh](https://github.com/user-attachments/assets/aa2eb047-a8c9-49d4-9e9e-a8c679cc4630)
 
+Hope you are well, 
+I create some repo with software testing idea.
 
-**itmamun29/itmamun29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m ca IT professional.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
