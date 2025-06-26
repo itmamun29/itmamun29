@@ -6,8 +6,8 @@ I create some repo with software testing idea.
 - 🔭 I’m IT professional.
 
 - 💬 Ask me about ...
-- 📫 How to reach me:
-  Email: abdulahalshifat81@gmail.com
+- 📫 How to reach me:<br>
+  Email: abdulahalshifat81@gmail.com <br>
   Phone : 01686810999 (Whatsapp)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
